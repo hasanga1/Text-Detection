@@ -1,0 +1,29 @@
+# Ignore the virtual environment directory
+.venv/
+
+# Ignore the dataset directory (assuming it's named "dataset")
+dataset/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the trained model file if you don't want to commit it
+model_trained.p
+
+# Ignore any log files
+*.log
+
+# Ignore any temporary files or directories
+*.tmp
+*.temp
+*.swp
+.DS_Store
+
+# Ignore all Python cache files and directories
+__pycache__/
+*.py[cod]
+
+# Ignore environment files (you may want to keep this if sharing)
+.env
+
+# Ignore other files or folders as needed
