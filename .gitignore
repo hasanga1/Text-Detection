@@ -7,9 +7,6 @@ dataset/
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore the trained model file if you don't want to commit it
-model_trained.p
-
 # Ignore any log files
 *.log
 
