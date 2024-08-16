@@ -3,6 +3,7 @@
 
 # Ignore the dataset directory (assuming it's named "dataset")
 dataset/
+myData/
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
